@@ -59,7 +59,7 @@ Example Output
 [ES] Running benchmark on 10,000 simulated requests...
 [RESULT] Efficiency: 94.8% | Latency Reduction: 21% | Balance Stability: Optimal         # This file
 
--**📂 Project Structure**
+##📂 Project Structure**
 
 aura-path-algorithms/
  ├── src/                 # Source code for the AURA adaptive routing algorithm
@@ -69,7 +69,7 @@ aura-path-algorithms/
  └── README.md            # Project overview and usage instructions
 
 
- -** 🤝 Contributing
+ ## 🤝 Contributing
  We welcome contributions to AURA!
 To get started:
 
@@ -83,10 +83,10 @@ Push to the branch (git push origin feature/amazing-feature)
 
 Open a Pull Request
 
--** 📜 License
+## 📜 License
 This project is licensed under the AURA License (see LICENSE.md).
 
--** 🌟 Why AURA?
+## 🌟 Why AURA?
 Unlike traditional algorithms, AURA feels alive:
 
 Adaptive – learns and adjusts dynamically
@@ -99,7 +99,7 @@ Aesthetic – designed with clarity and modern engineering best practices
 
 AURA is more than an algorithm—it’s a framework for intelligent balance.
 
-## Legal Safety Note
+## ⚖️ Legal Safety Note
 
 This project includes implementations of classical graph algorithms such as **Dijkstra**, **Bellman–Ford**, and **Floyd–Warshall**.  
 These algorithms are named after the researchers who first described them in academic publications. The algorithms themselves are **public domain concepts** and cannot be copyrighted or patented.
