@@ -47,7 +47,7 @@ npm install
 Or, if using yarn:
 yarn install
 
-``
+```
 
 ## 🛠 Usage:
 Run the AURA Core
