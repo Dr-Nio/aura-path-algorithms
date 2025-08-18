@@ -68,6 +68,7 @@ aura-path-algorithms/
  ├── LICENSE.md           # AURA License
  └── README.md            # Project overview and usage instructions
 
+---
 
  ## 🤝 Contributing
  We welcome contributions to AURA!
@@ -83,8 +84,12 @@ Push to the branch (git push origin feature/amazing-feature)
 
 Open a Pull Request
 
+---
+
 ## 📜 License
 This project is licensed under the AURA License (see LICENSE.md).
+
+---
 
 ## 🌟 Why AURA?
 Unlike traditional algorithms, AURA feels alive:
@@ -99,6 +104,8 @@ Aesthetic – designed with clarity and modern engineering best practices
 
 AURA is more than an algorithm—it’s a framework for intelligent balance.
 
+---
+
 ## ⚖️ Legal Safety Note
 
 This project includes implementations of classical graph algorithms such as **Dijkstra**, **Bellman–Ford**, and **Floyd–Warshall**.  
@@ -107,3 +114,5 @@ These algorithms are named after the researchers who first described them in aca
 - ✅ Algorithm names are widely used in textbooks, research, and open-source projects.  
 - ✅ No copyright, patent, or trademark restrictions apply to their usage.  
 - ✅ You are free to use these implementations in open-source or commercial projects under the terms of this repository's license.
+
+---
