@@ -50,6 +50,7 @@ yarn install
 ```
 
 ## 🛠 Usage:
+```bash
 Run the AURA Core
 node aura-core.js
 
@@ -60,17 +61,19 @@ Example Output
 [AURA] Adaptive Unified Routing initialized.
 [ES] Running benchmark on 10,000 simulated requests...
 [RESULT] Efficiency: 94.8% | Latency Reduction: 21% | Balance Stability: Optimal         # This file
+```
 
 ---
 
 ## 📂 Project Structure**
-
+```bash
 aura-path-algorithms/
  ├── src/                 # Source code for the AURA adaptive routing algorithm
  ├── tests/               # Unit and integration tests (Vitest)
  ├── docs/                # Documentation and guides
  ├── LICENSE.md           # AURA License
  └── README.md            # Project overview and usage instructions
+```
 
 ---
 
