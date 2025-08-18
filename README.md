@@ -98,3 +98,12 @@ Resilient – optimized for edge cases and dynamic scaling
 Aesthetic – designed with clarity and modern engineering best practices
 
 AURA is more than an algorithm—it’s a framework for intelligent balance.
+
+## Legal Safety Note
+
+This project includes implementations of classical graph algorithms such as **Dijkstra**, **Bellman–Ford**, and **Floyd–Warshall**.  
+These algorithms are named after the researchers who first described them in academic publications. The algorithms themselves are **public domain concepts** and cannot be copyrighted or patented.
+
+- ✅ Algorithm names are widely used in textbooks, research, and open-source projects.  
+- ✅ No copyright, patent, or trademark restrictions apply to their usage.  
+- ✅ You are free to use these implementations in open-source or commercial projects under the terms of this repository's license.
