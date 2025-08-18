@@ -61,7 +61,9 @@ Example Output
 [ES] Running benchmark on 10,000 simulated requests...
 [RESULT] Efficiency: 94.8% | Latency Reduction: 21% | Balance Stability: Optimal         # This file
 
-##📂 Project Structure**
+---
+
+## 📂 Project Structure**
 
 aura-path-algorithms/
  ├── src/                 # Source code for the AURA adaptive routing algorithm
