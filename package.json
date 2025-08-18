@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "AURA - Adaptive Unified Routing Algorithms: A modern ES package providing graph shortest-path algorithms (Dijkstra, Bellman-Ford, Floyd-Warshall) with benchmarks and tests.",
 	"license": "MIT",
-	"author": "AURA Contributors",
+	"author": "Nicholas Oscar",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Dr-Nio/aura-path-algorithms.git"
@@ -12,18 +12,18 @@
 	"bugs": {
 		"url": "https://github.com/Dr-Nio/aura-path-algorithms/issues"
 	},
-	"main": "./dist/index.cjs",
-	"module": "./dist/index.js",
-	"types": "./dist/index.d.ts",
+	"main": "./src/index.cjs",
+	"module": "./src/index.js",
+	"types": "./src/index.d.ts",
 	"exports": {
 		".": {
-			"import": "./dist/index.js",
-			"require": "./dist/index.cjs",
-			"types": "./dist/index.d.ts"
+			"import": "./src/index.js",
+			"require": "./src/index.cjs",
+			"types": "./src/index.d.ts"
 		}
 	},
 	"files": [
-		"dist"
+		"src"
 	],
 	"scripts": {
 		"build": "rollup -c",
@@ -31,7 +31,7 @@
 		"test": "vitest run",
 		"test:watch": "vitest watch",
 		"bench": "ts-node benchmarks/run-benchmarks.ts",
-		"clean": "rimraf dist"
+		"clean": "rimraf src"
 	},
 	"keywords": [
 		"aura",
