@@ -47,7 +47,9 @@ npm install
 Or, if using yarn:
 yarn install
 
--** 🛠 Usage:
+``
+
+## 🛠 Usage:
 Run the AURA Core
 node aura-core.js
 
@@ -67,8 +69,7 @@ aura-path-algorithms/
  ├── docs/                # Documentation and guides
  ├── LICENSE.md           # AURA License
  └── README.md            # Project overview and usage instructions
- 
-```bash
+
 ---
 
  ## 🤝 Contributing
