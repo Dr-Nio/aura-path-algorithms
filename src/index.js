@@ -1,6 +1,5 @@
-export * from "./types";
-export { dijkstra } from "./dijkstra";
-export { bellmanFord } from "./bellmanFord";
-export { floydWarshall } from "./floydWarshall";
-export { AURA } from "./aura";
-export { runBenchmarks } from "./benchmark";
+export { auraPath } from "./algorithms/aura.js";
+export { dijkstra } from "./algorithms/dijkstra.js";
+export { aStar } from "./algorithms/astar.js";
+export { floydWarshall } from "./algorithms/floydWarshall.js";
+export * as utils from "./algorithms/utils.js";

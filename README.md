@@ -57,6 +57,18 @@ node aura-core.js
 Run ES Benchmarking
 node es-benchmark.js
 
+Example usage:
+
+import { dijkstra, aura } from "@dr-nio/aura-path-algorithms";
+
+const graph = { A: { B: 1 }, B: { C: 2 }, A: { C: 4 } };
+console.log(dijkstra(graph, "A").distances);
+Features (why Aura is unique).
+
+Link to tests/examples.
+
+
+
 Example Output
 [AURA] Adaptive Unified Routing initialized.
 [ES] Running benchmark on 10,000 simulated requests...

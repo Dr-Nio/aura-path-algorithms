@@ -60,7 +60,7 @@ npm install aura-routing
 Then import it into your code:
 
 ```javascript
-import { AURA } from "aura-routing";
+const { AURA } = require ("aura-routing";
 
 const aura = new AURA();
 ```
